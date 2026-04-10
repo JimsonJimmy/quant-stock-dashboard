@@ -16,7 +16,7 @@ conn.execute('''
 ''')
 conn.commit()
 
-API_KEY = ALPHA_VANTAGE_KEY
+API_KEY = st.secrets["ALPHA_VANTAGE_KEY"]
 
 @st.cache_data(ttl=3600)
 def fetch_stock(ticker):
