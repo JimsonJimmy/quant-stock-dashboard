@@ -13,4 +13,4 @@ A live stock dashboard built with Python, Streamlit, SQL, and Alpha Vantage API.
 - Python, Streamlit, Pandas, SQLite, Alpha Vantage API
 
 ## Live Demo
-[Click here to view the app](YOUR_STREAMLIT_LINK)
+[Click here to view the app](https://quant-stock-dashboard-tgeworhujackkddhbvzavu.streamlit.app/)
